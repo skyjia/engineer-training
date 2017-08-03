@@ -1,7 +1,7 @@
 # 工程师培训
 ## 1 通用
 
-#### 1.1 Markdown
+### 1.1 Markdown
 
 **阅读清单：**
 
@@ -19,20 +19,20 @@
 
 
 
-#### 1.2 Git & GitHub
+### 1.2 Git & GitHub
 
-阅读清单:
+**阅读清单:**
 
 - [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 - [Git Workflow](http://documentup.com/skwp/git-workflows-book#chapter-1-setup-repo-overview/the-index)
 - [沉浸式学习Git](http://igit.linuxtoy.org/)
 
-在线学习/练习:
+**在线学习/练习:**
 
 - [GitHub tryGit](https://try.github.io/) (英文)
 - [学习 Git 分支](http://learngitbranching.js.org/) (中文/英文)
 
-学习目标:
+**学习目标:**
 
 - 理解 Git 中的各种概念，掌握 Git 基本命令操作
 - 掌握 GitHub 使用
