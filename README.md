@@ -1,5 +1,6 @@
 # 工程师培训
-## 1 通用
+
+## 1 基础技能
 
 ### 1.1 Markdown
 
@@ -37,7 +38,7 @@
 - 理解 Git 中的各种概念，掌握 Git 基本命令操作
 - 掌握 GitHub 使用
 
-## 许可证
+## 2 许可证
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
